@@ -1,2 +1,2 @@
 # afids-ct-
-translating over the anatomical fiducials framework to computed tomography neuroimaging data 
+translating the anatomical fiducials framework over to computed tomography neuroimaging data 
