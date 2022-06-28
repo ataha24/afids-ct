@@ -23,9 +23,4 @@ vtkMRMLMarkupsFiducialNode_6,-0.781,63.922,3.035,0.000,0.000,0.000,1.000,1,1,1,1
 vtkMRMLMarkupsFiducialNode_25,-0.814,-1.436,2.530,0.000,0.000,0.000,1.000,1,1,1,20,SPLE,vtkMRMLScalarVolumeNode1
 vtkMRMLMarkupsFiducialNode_26,29.172,31.451,-23.915,0.000,0.000,0.000,1.000,1,1,1,21,RALTH,vtkMRMLScalarVolumeNode1
 vtkMRMLMarkupsFiducialNode_27,-29.145,29.784,-23.902,0.000,0.000,0.000,1.000,1,1,1,22,LALTH,vtkMRMLScalarVolumeNode1
-vtkMRMLMarkupsFiducialNode_28,18.977,26.606,-16.769,0.000,0.000,0.000,1.000,1,1,1,23,RSAMTH,vtkMRMLScalarVolumeNode1
-vtkMRMLMarkupsFiducialNode_29,-18.089,26.138,-16.605,0.000,0.000,0.000,1.000,1,1,1,24,LSAMTH,vtkMRMLScalarVolumeNode1
-vtkMRMLMarkupsFiducialNode_30,10.343,-4.586,-1.289,0.000,0.000,0.000,1.000,1,1,1,27,RIGO,vtkMRMLScalarVolumeNode1
-vtkMRMLMarkupsFiducialNode_31,-11.587,-4.763,-1.895,0.000,0.000,0.000,1.000,1,1,1,28,LIGO,vtkMRMLScalarVolumeNode1
-vtkMRMLMarkupsFiducialNode_33,19.937,-35.117,-3.781,0.000,0.000,0.000,1.000,1,1,1,29,RVOH,vtkMRMLScalarVolumeNode1
-vtkMRMLMarkupsFiducialNode_34,-13.460,-39.859,-3.699,0.000,0.000,0.000,1.000,1,1,1,30,LVOH,vtkMRMLScalarVolumeNode1
+
